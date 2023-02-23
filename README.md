@@ -53,6 +53,13 @@
   
  </div>
 
+## PROJECTS
+<a href="https://www.tabsera.com/">Tabsera</a>
+<a href="https://www.calimarine.com/">CaliMarine</a>
+<a href="https://bazaarghar.com/">Bazaarghar</a>
+<a href="https://www.idahowatersports.com/">Idaho Water Sports</a>
+<a href="https://forkfreight.com/">ForkFreight</a>
+
 ## Backend Technologies
 
  <div> 
