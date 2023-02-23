@@ -22,12 +22,9 @@
 
 ## Little about me
 
-- 👋 my name is Irfan Hayat
+- 👋 My name is Irfan Hayat
 - 👀 I have five year Experience in  FULL STACK DEVELOPMENT
--    Currently working in SafariOne as 👨‍💻 FullStack Developer
-
-
- 
+-     Currently working in SafariOne as 👨‍💻 FullStack Developer
 - 🤔 Prolem Solver 
 - 📫 How to reach me [Link to linkedin](https://www.linkedin.com/in/m-irfan-hayat-809451163/)
 
@@ -37,8 +34,8 @@
 {
   "languages": ["Javascript", "Typescript", "Java", "c++", "c"],
   "frameworks/libraries": {
-    "backend": ["Node js","Express","Passport","Send Grid"],
-    "frontend": ["React.js", "Angular 2/6/11","PrimeNg", "Material UI", "ANTD", "Tailwind Css", "Fire Base","Redux"],
+    "backend": ["Node js","Express","Passport","Send Grid",NUST JS],
+    "frontend": ["React.js", "Angular 2/6/11","PrimeNg", "Material UI", "ANTD", "Tailwind Css", "Fire Base","Redux TOOLKIT",NEXT JS, ],
     "others": ["HTML5", "CSS3"]
     },
   "database": ["PostgreSQL", "MongoDB", "MySQL"],
