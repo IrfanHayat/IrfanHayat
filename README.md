@@ -24,7 +24,7 @@
 
 - 👋 My name is Irfan Hayat
 - 👀 I have five year Experience in  FULL STACK DEVELOPMENT
--     Currently working in SafariOne as 👨‍💻 FullStack Developer
+-     Currently working in AppInSnap as 👨‍💻 FullStack Developer
 - 🤔 Prolem Solver 
 - 📫 How to reach me [Link to linkedin](https://www.linkedin.com/in/m-irfan-hayat-809451163/)
 
